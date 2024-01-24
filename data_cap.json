@@ -1,0 +1,158 @@
+[
+    {
+        "tag": "Accueil",
+        "questions": [
+            "Quelles informations puis-je trouver sur la page d'accueil de votre site ?",
+            "Comment puis-je naviguer sur votre site à partir de la page d'accueil ?",
+            "Pouvez-vous m'indiquer les dernières mises à jour sur la page d'accueil ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Contact",
+        "questions": [
+            "Comment puis-je vous contacter pour poser des questions ou obtenir de l'aide ?",
+            "Quels sont les différents moyens de communication avec votre équipe de support ?",
+            "Y a-t-il un formulaire de contact en ligne que je peux utiliser ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Autres Sites",
+        "questions": [
+            "Pouvez-vous me recommander des sites web connexes pour des informations statistiques supplémentaires ?",
+            "Où puis-je trouver des liens vers d'autres sites liés à la statistique sur votre site ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Autres Statistiques",
+        "questions": [
+            "En dehors des statistiques principales, quelles autres données et statistiques offrez-vous ?",
+            "Existe-t-il des données spécifiques que je ne trouverais pas ailleurs ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Calendrier_publication",
+        "questions": [
+            "Pouvez-vous me fournir un calendrier des prochaines publications de statistiques ?",
+            "Comment puis-je rester informé des mises à jour du calendrier de publication ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Démographie",
+        "questions": [
+            "Où puis-je trouver des données démographiques nationales ?",
+            "Pouvez-vous me donner des informations sur la population actuelle de notre pays ?",
+            "Existe-t-il des projections démographiques pour l'avenir ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Économie",
+        "questions": [
+            "Quels indicateurs économiques principaux sont disponibles sur votre site ?",
+            "Comment se porte l'économie du pays en ce moment ?",
+            "Où puis-je trouver des rapports économiques détaillés ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Enquête",
+        "questions": [
+            "Quelles enquêtes spécifiques sont disponibles sur votre site ?",
+            "Comment puis-je accéder aux données d'une enquête particulière ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Espace Presse",
+        "questions": [
+            "Où puis-je trouver des communiqués de presse et des informations pour les médias sur votre site ?",
+            "Existe-t-il des ressources pour les journalistes et les professionnels des médias ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Le Phare",
+        "questions": [
+            "Qu'est-ce que 'Le Phare' et quel type d'informations y sont publiées ?",
+            "Comment puis-je accéder aux articles et aux rapports de 'Le Phare' ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Les Publications de l'ansd",
+        "questions": [
+            "Où puis-je consulter les publications officielles de l'ANSD ?",
+            "Y a-t-il une bibliothèque en ligne pour les rapports et les publications ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Mentions Légales",
+        "questions": [
+            "Où puis-je trouver les mentions légales et les politiques de confidentialité de votre site ?",
+            "Pouvez-vous me donner des informations sur les droits d'auteur et les conditions d'utilisation ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Protection des Données",
+        "questions": [
+            "Comment garantissez-vous la protection de mes données personnelles lorsque je navigue sur votre site ?",
+            "Quelles mesures de sécurité avez-vous mises en place pour protéger les informations des utilisateurs ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Recrutement",
+        "questions": [
+            "Êtes-vous actuellement en train de recruter du personnel ? Où puis-je trouver des offres d'emploi ?",
+            "Comment puis-je postuler pour un poste à l'ANSD ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Régions",
+        "questions": [
+            "Où puis-je trouver des données statistiques spécifiques à une région donnée ?",
+            "Existe-t-il des rapports régionaux sur l'économie et la démographie ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Ressources",
+        "questions": [
+            "Quels types de ressources, tels que guides et tutoriels, proposez-vous aux utilisateurs ?",
+            "Comment puis-je accéder à des documents de référence sur l'utilisation des données statistiques ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Situation_économique_sociale_égionale",
+        "questions": [
+            "Pouvez-vous me donner des informations sur la situation économique et sociale d'une région spécifique ?",
+            "Où puis-je trouver des rapports régionaux détaillés ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Situation_économique_sociale_nationale",
+        "questions": [
+            "Quels sont les principaux indicateurs de la situation économique et sociale nationale ?",
+            "Comment évolue la situation économique et sociale à l'échelle nationale ?"
+        ],
+        "reponse": ""
+    },
+    {
+        "tag": "Société",
+        "questions": [
+            "Où puis-je trouver des données statistiques sur des aspects sociaux tels que l'éducation, la santé, et la culture ?",
+            "Quelles informations avez-vous sur la société actuelle ?"
+        ],
+        "reponse": ""
+    }
+]

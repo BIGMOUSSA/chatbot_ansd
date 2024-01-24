@@ -1,0 +1,228 @@
+{"intention" :[
+    {
+        "tag": "salutations",
+        "questions": [ " Bonjour ", " Comment allez-vous ? ", " Salut ", " Quoi de neuf " ,"Salut ! ","Ça va ? "],
+        "reponses": ["comment ça va ?", "Bonjour partenaire !", "Bonjour", "Bonjour !", 
+        "Comment allez-vous ?", "tout va bien ?", "tout se passe bien pour vous ?",
+        "ça va chez vous ? ","Que puis-je faire pour vous aider?","En quoi puis-je vous être utile?"]
+    },
+    {
+        "tag": "Apropos_ANSD",
+        "questions": [
+            "Pouvez-vous me donner un aperçu de l'ANSD ?",
+            "Quels sont les objectifs de l'ANSD ?",
+            "Que puis-je trouver sur la page de présentation de l'ANSD ?"
+        ],
+        "reponses": [
+            "La page de présentation générale de notre site vous donne un aperçu complet de l'Agence Nationale de la Statistique et de la Démographie (ANSD) du Sénégal.Vous y trouverez des informations sur notre mission, nos activités et notre engagement envers la collecte de données statistiques de haute qualité. [Lien](https://www.ansd.sn/presentation-generale)"
+        ]
+    },
+    {
+        "tag": "RéseauxSociaux",
+        "questions": [
+            "Comment puis-je suivre l'ANSD sur les réseaux sociaux ?",
+            "Où puis-je trouver vos profils de médias sociaux ?",
+            "Quels types de contenus partagez-vous sur les réseaux sociaux ?"
+        ],
+        "reponses": [
+            "Notre page Facebook vous permet de rester connecté avec l'ANSD et de recevoir des mises à jour régulières sur nos publications, nos événements et nos actualités statistiques. Rejoignez notre communauté en ligne pour rester informé. [Lien](https://web.facebook.com/ANSD.Senegal?_rdc=1&_rdr=)",
+            "Notre chaîne YouTube abrite des vidéos informatives, des présentations de données et des discussions sur des sujets statistiques clés. Abonnez-vous pour accéder à du contenu visuel et éducatif de l'ANSD. [Lien](https://www.youtube.com/user/ANSDSenegal)",
+            "Suivez notre compte Twitter pour des actualités en temps réel, des faits saillants statistiques et des annonces importantes de l'ANSD. Restez connecté avec nous sur cette plateforme sociale. [Lien](https://twitter.com/statsenegal)"
+        ]
+    },
+    {
+        "tag": "LiensUtiles",
+        "questions": [
+            "Pouvez-vous me recommander des sites web connexes pour des informations statistiques supplémentaires ?",
+            "Où puis-je trouver des liens vers d'autres sites liés à la statistique sur votre site ?"
+        ],
+        "reponses": [
+            "La section 'Autres Sites' vous redirige vers des sources externes importantes de données statistiques et de ressources connexes qui peuvent compléter nos propres informations. [Lien](https://www.ansd.sn/autre-site)",
+            "Le site web de la statistique au Sénégal est une ressource complémentaire pour accéder à d'autres données statistiques nationales et régionales. Explorez leurs informations pour une vue d'ensemble plus large. [Lien](https://www.statsenegal.sn)"
+        ]
+    },
+    {
+        "tag": "StatistiquesComplémentaires",
+        "questions": [
+            "En dehors des statistiques principales, quelles autres données et statistiques offrez-vous ?",
+            "Existe-t-il des données spécifiques que je ne trouverais pas ailleurs ?"
+        ],
+        "reponses": [
+            "Dans la section 'Autres Statistiques', vous trouverez des données statistiques spécifiques qui ne sont pas couvertes dans nos catégories principales. Explorez ces données complémentaires pour une vue d'ensemble plus complète. [Lien](https://www.ansd.sn/theme/autres-statistiques)"
+        ]
+    },
+    {
+        "tag": "Calendrier",
+        "questions": [
+            "Pouvez-vous me fournir un calendrier des prochaines publications de statistiques ?",
+            "Comment puis-je rester informé des mises à jour du calendrier de publication ?"
+        ],
+        "reponses": [
+            "Le calendrier de publications vous donne un aperçu des dates de sortie prévues pour nos rapports statistiques. C'est un outil utile pour planifier votre accès aux données les plus récentes. [Lien](https://www.ansd.sn/calendrier-de-publications)"
+        ]
+    },
+    {
+        "tag": "Contact",
+        "questions": [
+            "Comment puis-je vous contacter pour poser des questions ou obtenir de l'aide ?",
+            "Quels sont les différents moyens de communication avec votre équipe de support ?",
+            "Y a-t-il un formulaire de contact en ligne que je peux utiliser ?"
+        ],
+        "reponses": [
+            "Notre page de contact vous fournit différentes manières de nous joindre pour poser des questions, demander de l'aide ou fournir des commentaires. Nous sommes là pour vous aider. [Lien](https://www.ansd.sn/contact)"
+        ]
+    },
+    {
+        "tag": "Démographie",
+        "questions": [
+            "Où puis-je trouver des données démographiques nationales ?",
+            "Pouvez-vous me donner des informations sur la population actuelle de notre pays ?",
+            "Existe-t-il des projections démographiques pour l'avenir ?"
+        ],
+        "reponses": [
+            "La section sur la démographie vous offre des données démographiques nationales et des informations sur la population actuelle du Sénégal. Vous y trouverez également des projections démographiques pour l'avenir. [Lien](https://www.ansd.sn/theme/demographie)"
+        ]
+    },
+    {
+        "tag": "Économie",
+        "questions": [
+            "Quels indicateurs économiques principaux sont disponibles sur votre site ?",
+            "Comment se porte l'économie du pays en ce moment ?",
+            "Où puis-je trouver des rapports économiques détaillés ?"
+        ],
+        "reponses": [
+            "Explorez notre section sur l'économie pour accéder aux principaux indicateurs économiques du pays. Découvrez comment se porte l'économie sénégalaise et trouvez des rapports économiques détaillés. [Lien](https://www.ansd.sn/theme/economie)"
+        ]
+    },
+    {
+        "tag": "Enquête",
+        "questions": [
+            "Quelles enquêtes spécifiques sont disponibles sur votre site ?",
+            "Comment puis-je accéder aux données d'une enquête particulière ?"
+        ],
+        "reponses": [
+            "La section 'Enquête' vous donne accès à des informations sur les enquêtes statistiques spécifiques menées par l'ANSD. Apprenez comment accéder aux données de ces enquêtes. [Lien](https://www.ansd.sn/enquete)"
+        ]
+    },
+    {
+        "tag": "Presse",
+        "questions": [
+            "Où puis-je trouver des communiqués de presse et des informations pour les médias sur votre site ?",
+            "Existe-t-il des ressources pour les journalistes et les professionnels des médias ?"
+        ],
+        "reponses": [
+            "L'Espace Presse est l'endroit idéal pour les journalistes et les professionnels des médias. Vous y trouverez des communiqués de presse, des ressources et des informations pour les médias. [Lien](https://www.ansd.sn/espace-presse)"
+        ]
+    },
+    {
+        "tag": "Publications",
+        "questions": [],
+        "reponses": [
+            "La page 'Toutes les Publications' vous donne un accès complet à la bibliothèque en ligne de l'ANSD, où vous pouvez consulter toutes nos publications officielles. [Lien](https://www.ansd.sn/toutes-les-publications)"
+        ]
+    },
+
+    {
+        "tag": "ProtectiondesDonnées",
+        "questions": [
+            "Comment garantissez-vous la protection de mes données personnelles lorsque je navigue sur votre site ?",
+            "Quelles mesures de sécurité avez-vous mises en place pour protéger les informations des utilisateurs ?"
+        ],
+        "reponses": [
+            "Découvrez comment nous protégeons les données personnelles des utilisateurs lorsque vous naviguez sur notre site, et quelles mesures de sécurité nous avons mises en place. [Lien](https://www.ansd.sn/protection-des-donnees)"
+        ]
+    },
+    {
+        "tag": "Régions",
+        "questions": [
+            "Où puis-je trouver des données statistiques spécifiques à une région donnée ?",
+            "Existe-t-il des rapports régionaux sur l'économie et la démographie ?"
+        ],
+        "reponses": [
+            "La section 'Régions' vous permet de trouver des données statistiques spécifiques à une région donnée. Vous y trouverez également [Lien](https://www.ansd.sn/regions)"
+        ]
+    },
+    {
+        "tag": "Ressources",
+        "questions": [
+            "Quels types de ressources, tels que guides et tutoriels, proposez-vous aux utilisateurs ?",
+            "Comment puis-je accéder à des documents de référence sur l'utilisation des données statistiques ?"
+        ],
+        "reponses": [
+            "Dans la section 'Ressources', vous trouverez des informations sur les types de ressources que nous proposons, tels que des guides et des tutoriels, pour aider les utilisateurs. Vous pouvez également accéder à des documents de référence sur l'utilisation des données statistiques. [Lien](https://www.ansd.sn/ressources)"
+        ]
+    },
+
+    {
+        "tag": "Presse",
+        "questions": [
+            "Où puis-je trouver des communiqués de presse et des informations pour les médias sur votre site ?",
+            "Existe-t-il des ressources pour les journalistes et les professionnels des médias ?"
+        ],
+        "reponses": [
+            "L'Espace Presse est l'endroit idéal pour les journalistes et les professionnels des médias. Vous y trouverez des communiqués de presse, des ressources et des informations pour les médias. [Lien](https://www.ansd.sn/espace-presse)"
+        ]
+    },
+
+    {
+        "tag": "LesPublicationsANSD",
+        "questions": [
+            "Où puis-je consulter les publications officielles de l'ANSD ?",
+            "Y a-t-il une bibliothèque en ligne pour les rapports et les publications ?"
+        ],
+        "reponse": [
+            "Vous pouvez consulter toutes les publications officielles de l'ANSD en ligne en suivant ce lien : https://www.ansd.sn/toutes-les-publications. Vous y trouverez une vaste bibliothèque de rapports, de statistiques et d'études publiées par l'Agence Nationale de la Statistique et de la Démographie.",
+            "L'ANSD met à votre disposition une bibliothèque en ligne complète pour accéder à ses rapports et publications officielles. Vous pouvez accéder à ces documents en cliquant sur le lien suivant : https://www.ansd.sn/toutes-les-publications. Là, vous trouverez une mine d'informations statistiques et démographiques essentielles.",
+            "Pour accéder aux publications officielles de l'ANSD, vous pouvez visiter la bibliothèque en ligne de l'Agence Nationale de la Statistique et de la Démographie en utilisant ce lien : https://www.ansd.sn/toutes-les-publications. Vous y trouverez un large éventail de rapports, de données statistiques et d'analyses pour répondre à vos besoins en matière d'informations officielles."
+        ]
+    },
+
+    {
+        "tag": "Protection des Données",
+        "questions": [
+            "Comment garantissez-vous la protection de mes données personnelles lorsque je navigue sur votre site ?",
+            "Quelles mesures de sécurité avez-vous mises en place pour protéger les informations des utilisateurs ?"
+        ],
+        "reponse": [
+            "La sécurité des informations de nos utilisateurs est primordiale pour nous. Nous avons mis en place des mesures de sécurité robustes pour protéger les données, en particulier celles des personnes ayant répondu à nos enquêtes et recensements. Pour en savoir plus sur les mesures de sécurité que nous avons mises en place, nous vous invitons à consulter notre page dédiée à la protection des données, accessible ici : Mesures de Sécurité pour la Protection des Données ANSD (https://www.ansd.sn/protection-des-donnees). Vous y trouverez des informations détaillées sur nos pratiques de protection des données et sur les efforts que nous déployons pour garantir la sécurité de vos informations."
+        ]
+    },
+    {
+        "tag": "Recrutement",
+        "questions": [
+            "Êtes-vous actuellement en train de recruter du personnel ? Où puis-je trouver des offres d'emploi ?",
+            "Comment puis-je postuler pour un poste à l'ANSD ?"
+        ],
+        "reponse": [
+            "Si vous êtes intéressé par des opportunités d'emploi à l'ANSD, visitez notre site de recrutement pour trouver des offres d'emploi et des informations sur le processus de candidature. [Lien](http://recrute.ansd.sn/)"
+        ]
+    },
+    {
+        "tag": "Situation_économique_sociale_régionale",
+        "questions": [
+            "Pouvez-vous me donner des informations sur la situation économique et sociale d'une région spécifique ?",
+            "Où puis-je trouver des rapports régionaux détaillés ?"
+        ],
+        "reponse": "Vous pouvez trouver des informations détaillées sur la situation économique et sociale des régions sur le site Web de l'Agence Nationale de la Statistique et de la Démographie du Sénégal (ANSD). Ils publient des rapports régionaux qui couvrent divers aspects socio-économiques. Pour accéder à ces rapports, vous pouvez visiter le site de l'ANSD à l'adresse suivante : [Rapports régionaux de l'ANSD](https://www.ansd.sn/ses-regionales)"
+    }
+    ,
+
+    {
+        "tag": "Société",
+        "questions": [
+            "Où puis-je trouver des données statistiques sur des aspects sociaux tels que l'éducation, la santé, et la culture ?",
+            "Quelles informations avez-vous sur la société actuelle ?"
+        ],
+        "reponse": [
+            "Si vous cherchez des données statistiques sur des aspects sociaux tels que l'éducation, la santé et la culture, vous pouvez les trouver dans la section 'Société'. Nous avons également des informations sur la société actuelle. [Lien](https://www.ansd.sn/theme/societe)"
+        ]
+    },
+    {
+        "tag": "",
+        "questions":"",
+        "reponses":  [ "pouvez-vous repeter la question svp !" ,"désolé je ne comprend pas !"]
+      
+    }
+]
+
+}
